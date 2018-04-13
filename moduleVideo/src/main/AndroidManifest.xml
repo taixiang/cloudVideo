@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    package="com.apicloud.sdk.moduleVideo">
+
+
+    <application android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+
+
+        <activity android:name="com.apicloud.moduleVideo.MainActivity" android:theme="@style/VideoTheme" android:screenOrientation="landscape"/>
+    </application>
+
+</manifest>
