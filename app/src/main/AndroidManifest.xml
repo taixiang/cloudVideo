@@ -15,7 +15,7 @@ com.shuyu.gsyvideoplayer.x86,
 shuyu.com.androidvideocache,
 com.trello.rxlifecycle2.components,
 com.trello.rxlifecycle2.android"
-        android:minSdkVersion="9"
+        android:minSdkVersion="16"
         android:targetSdkVersion="20"/>
 
     <supports-screens
